@@ -1,5 +1,5 @@
 {
-  "bandcamp_disabled": true,
+  "bandcamp_disabled": false,
   "soundcloud_disabled": false,
   "message": "Cette fonctionnalité est temporairement suspendue — voir https://... pour plus de détails"
 }
